@@ -1,6 +1,6 @@
+def test(id):
+    print(id)
 
-id = "onaoya2002@gmail.com"
-pass = "123456"
 
-def test(id, pass):
-    print(id, pass)
+if __name__ == "__main__":
+    test("Hello")
